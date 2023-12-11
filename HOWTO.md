@@ -37,10 +37,14 @@ For mine, I print the Top part with the hole facing the bed with support to make
 ![Nose Ring print screenshot in Cura](images/nose-ring-print.png)
 
 ## Control Box
-I Use PLA in black to blend with the muzzle, but you can use whatever you fancy.
-Enable support for the USB port and the screws mount points
+I recommend using PLA in black to blend with the muzzle, but you can use whatever you fancy.
+Enable support everywhere for the USB port and the screws mount points
 
-![Control Box Cura screenshot](images/box-print.png)
+⚠ You might need to flip the model! Make sure to have the lid with the countersunk holes facing up, and the box flat on the bed
+
+![Control Box Cura screenshot pre slice](images/box-print-2.png)
+
+![Control Box Cura screenshot sliced](images/box-print.png)
 
 # Assembly Instructions
 ## Wiring
@@ -64,7 +68,7 @@ Once installed, make sure you set the LED Strip length correctly (30 Leds if usi
 7. Close the whole thing up and screw it in, **make sure you are not applying too much pressure on the battery or potentially puncturing it!**
 
 <p align="center"> 
-<img src="images/box-content.jpg" width=""> 
+<img alt="Photo of the box content fitted in tightly" src="images/box-content.jpg" width=""> 
 </p>
 
 ## Making the LED Ring
@@ -77,20 +81,22 @@ The instruction will make it sound simple, but dealing with miniature electronic
 # Putting the nose ring on
 ## Mr S Puppy Hood and Amazon/Aliexpress alternatives
 <p align="center"> 
-<img src="images/hood-type-1.png" width="200"> 
+<img alt="Tailspace hood designer screenshot of a Mr S Puppy hood" src="images/hood-type-1.png" width="200"> 
 </p>
 
-The only thing you will need to do is add a bit of velcro tape on the inside of the muzzle. You can then feed the nose ring cable and ring itself by stretching the nose holes a bit.
+The only thing you will need to do is add a bit of velcro tape on the inside of the muzzle. Use super glue as the adhesive tape on the velcro will not hold to neoprene.
+
+You can then feed the nose ring cable and ring itself by stretching the nose holes a bit.
 
 <p align="center"> 
-<img src="images/hood-type-1-mount.jpg" width="200"> 
+<img alt="Photo of the inside of the hood muzzle with the nose ring cable fed through and velcro tape glued" src="images/hood-type-1-mount.jpg" width="200"> 
 </p>
 
 
 
 ## Mr S K9 Hood and Frisky Hoods
 <p align="center"> 
-<img src="images/hood-type-2.png" width="200"> 
+<img alt="Tailspace hood designer screenshot of a Mr S K9 hood" src="images/hood-type-2.png" width="200"> 
 </p>
 
 For these, **you will have to put a hole on the backside of the muzzle to allow the nose ring cable to be fed through**. 
