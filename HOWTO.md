@@ -6,7 +6,9 @@
 4. [Putting the Nose Ring on](#putting-the-nose-ring-on)
 
 # Bill of Material
-(Note: All of the link ar affiliate free, I do not make money if you use these, feel free to source yours elsewhere 😉)
+(Note: All of the link are **NOT** affiliated, I do not make money if you use these. Feel free to source your components elsewhere 😉)
+<p align="center"> 
+
 | Item                                                                                             | Amount           | Price         |
 | ------------------------------------------------------------------------------------------------ | ---------------- | ------------- |
 | [Seeed Studio XIAO ESP32C3](https://vi.aliexpress.com/item/1005005382287176.html)                | 1                | GBP 3.80      |
@@ -20,6 +22,8 @@
 | [4mm width or less high density LED Strip](https://vi.aliexpress.com/item/4000765540185.html)    | 30 Leds (approx) | GBP 2.00      |
 | **TOTAL**                                                                                        | -                | **GBP 14.09** |
 
+</p>
+
 ***Note:** All prices are withouth shipping cost, and the total doesn't reflect the electricity or labour expenses*
 
 # Print Instructions
@@ -29,15 +33,18 @@ Print the **NoseRingLED-Top** and **NoseRingLED-Bottom** files
 Use White, Transparent or Glow in the Dark PLA Filament
 The rings are very thin, so infill will not do anything.
 For mine, I print the Top part with the hole facing the bed with support to make sure I get a good finish, and the Bottom flat on the bed
+
 ![Nose Ring print screenshot in Cura](images/nose-ring-print.png)
 
 ## Control Box
 I Use PLA in black to blend with the muzzle, but you can use whatever you fancy.
 Enable support for the USB port and the screws mount points
+
 ![Control Box Cura screenshot](images/box-print.png)
 
 # Assembly Instructions
 ## Wiring
+
 ![Wiring Diagram](images/Wiring.png)
 
 ## WLED Setup
@@ -56,6 +63,10 @@ Once installed, make sure you set the LED Strip length correctly (30 Leds if usi
 6. Feed the LED JST Connector out to be able to pug it to the ring later
 7. Close the whole thing up and screw it in, **make sure you are not applying too much pressure on the battery or potentially puncturing it!**
 
+<p align="center"> 
+<img src="images/box-content.jpg" width=""> 
+</p>
+
 ## Making the LED Ring
 The instruction will make it sound simple, but dealing with miniature electronics is a huge pain.
 1. Cut the right amount of LED to fit the whole curve of the ring (it depends on your strip and cut line, but aim for slightly less just in case). For me it's 30 LEDs
@@ -64,12 +75,35 @@ The instruction will make it sound simple, but dealing with miniature electronic
 4. Still using some suber glue, press and glue the top part over it. Depending on the LED used, the fit is VERY tight, so you will want to hold it for a few minutes and touch up with more glue to make it stick.
 
 # Putting the nose ring on
-This step requires a tiny modification of your pup hood in adding some velcro tape on the inside of the muzzle. This is the only modification needed, the JST 2 connectors should easilly fit through the nose holes
+## Mr S Puppy Hood and Amazon/Aliexpress alternatives
+<p align="center"> 
+<img src="images/hood-type-1.png" width="200"> 
+</p>
+
+The only thing you will need to do is add a bit of velcro tape on the inside of the muzzle. You can then feed the nose ring cable and ring itself by stretching the nose holes a bit.
+
+<p align="center"> 
+<img src="images/hood-type-1-mount.jpg" width="200"> 
+</p>
+
+
+
+## Mr S K9 Hood and Frisky Hoods
+<p align="center"> 
+<img src="images/hood-type-2.png" width="200"> 
+</p>
+
+For these, **you will have to put a hole on the backside of the muzzle to allow the nose ring cable to be fed through**. 
+
+> ⚠ I cannot provie better instruction since I don't own (yet) these kind of hoods, so these are based of photos from friends and best attempt. Proceed with caution
+
+While I tried to have as minimal of an impact on the hood, this is unfortunately unavoidable here, but the hole will be in the inside, so invisible, and just big enough to fit the JST connector
 
 # ⚠ Caution
 * Because of the way the SEEED Microcontroller battery posrt works, following my given instruction, you can only charge the device when it is on.
-  * Any suggestion on making this better is welcomed
+  > Any suggestion on making this better is welcomed 🙏
 
-* Be VERY CAREFUL with the battery, it is a tiny and highly inflamable device very close to your face that can puff up and catch of fire if wired wrong. 
+* Be **VERY CAREFUL** with the battery, it is a tiny and highly inflamable device very close to your face that can puff up and catch of fire if wired wrong. 
+  * With flat cable and a bit of routing, you can probably power the contraption from an external battery.
 
-* The device has not been tested for extended used over time, so I cannot assess if it will overheat
+* The device has not been tested for extended used over time, so I cannot assess if it will overheat, nor it's lifetime.
