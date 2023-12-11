@@ -34,7 +34,11 @@ Use White, Transparent or Glow in the Dark PLA Filament
 The rings are very thin, so infill will not do anything.
 For mine, I print the Top part with the hole facing the bed with support to make sure I get a good finish, and the Bottom flat on the bed
 
+<p align="center"> 
+
 ![Nose Ring print screenshot in Cura](images/nose-ring-print.png)
+
+</p>
 
 ## Control Box
 I recommend using PLA in black to blend with the muzzle, but you can use whatever you fancy.
@@ -42,14 +46,22 @@ Enable support everywhere for the USB port and the screws mount points
 
 ⚠ You might need to flip the model! Make sure to have the lid with the countersunk holes facing up, and the box flat on the bed
 
+<p align="center"> 
+
 ![Control Box Cura screenshot pre slice](images/box-print-2.png)
 
 ![Control Box Cura screenshot sliced](images/box-print.png)
 
+</p>
+
 # Assembly Instructions
 ## Wiring
 
+<p align="center"> 
+
 ![Wiring Diagram](images/Wiring.png)
+
+</p>
 
 ## WLED Setup
 You can use anything you want for the control of your nose ring, even do custom code, but for the sake of simplicity, you can also just use WLED
@@ -80,6 +92,7 @@ The instruction will make it sound simple, but dealing with miniature electronic
 
 # Putting the nose ring on
 ## Mr S Puppy Hood and Amazon/Aliexpress alternatives
+
 <p align="center"> 
 <img alt="Tailspace hood designer screenshot of a Mr S Puppy hood" src="images/hood-type-1.png" width="200"> 
 </p>
@@ -91,8 +104,6 @@ You can then feed the nose ring cable and ring itself by stretching the nose hol
 <p align="center"> 
 <img alt="Photo of the inside of the hood muzzle with the nose ring cable fed through and velcro tape glued" src="images/hood-type-1-mount.jpg" width="200"> 
 </p>
-
-
 
 ## Mr S K9 Hood and Frisky Hoods
 <p align="center"> 
