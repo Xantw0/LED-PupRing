@@ -35,9 +35,7 @@ The rings are very thin, so infill will not do anything.
 For mine, I print the Top part with the hole facing the bed with support to make sure I get a good finish, and the Bottom flat on the bed
 
 <p align="center"> 
-
-![Nose Ring print screenshot in Cura](images/nose-ring-print.png)
-
+<img alt="Nose Ring print screenshot in Cura" src="images/nose-ring-print.png">
 </p>
 
 ## Control Box
@@ -47,20 +45,15 @@ Enable support everywhere for the USB port and the screws mount points
 ⚠ You might need to flip the model! Make sure to have the lid with the countersunk holes facing up, and the box flat on the bed
 
 <p align="center"> 
-
-![Control Box Cura screenshot pre slice](images/box-print-2.png)
-
-![Control Box Cura screenshot sliced](images/box-print.png)
-
+<img alt="Control Box Cura screenshot pre slice" src="images/box-print-2.png">
+<img alt="Control Box Cura screenshot sliced" src="images/box-print.png">
 </p>
 
 # Assembly Instructions
 ## Wiring
 
 <p align="center"> 
-
-![Wiring Diagram](images/Wiring.png)
-
+<img alt="Wiring Diagram" src="images/Wiring.png">
 </p>
 
 ## WLED Setup
