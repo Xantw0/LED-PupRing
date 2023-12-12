@@ -39,6 +39,9 @@ For mine, I print the Top part with the hole facing the bed with support to make
 </p>
 
 ## Control Box
+
+Print the **NoseRingBox-Box** and **NoseRingBox-Lid** files
+
 I recommend using PLA in black to blend with the muzzle, but you can use whatever you fancy.
 Enable support everywhere for the USB port and the screws mount points
 
@@ -82,6 +85,10 @@ The instruction will make it sound simple, but dealing with miniature electronic
 2. Peel the adhesive back and glues it on the bottom part of the ring, holding for a few minutes until it fits.
 3. Make sure to feed the wires through the back and keep them out for the next part
 4. Still using some suber glue, press and glue the top part over it. Depending on the LED used, the fit is VERY tight, so you will want to hold it for a few minutes and touch up with more glue to make it stick.
+
+<p align="center"> 
+<img alt="Photo of the box content fitted in tightly" src="images/nose-ring.jpg" width="500"> 
+</p>
 
 # Putting the nose ring on
 ## Mr S Puppy Hood and Amazon/Aliexpress alternatives
