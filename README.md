@@ -9,7 +9,9 @@ A collection of 3D files and instruction to build a LED Nose Ring for neoprene P
 Please check the [How-To guide](HOWTO.md) on build instruction and bill of meaterials
 
 # 🤔 Too lazy to build yourself?
-I can probably help you out! Fore barely more than the materials price to account for electricity and material shipping. Hit me up on [Mastodon](https://rubber.social/@Xantw0) or [Telegram](https://t.me/Xantw0)
+**I can probably help you out!**
+
+I'll probably open my services every now and then, but do check this [Mastodon post](https://rubber.social/@Xantw0) for more info on price, availability and contact info
 
 # ✨ Thanks
 This project was inpired by [gdog](https://woof.group/@gdog) and Icteryn from this [Mastodon post](https://woof.group/@gdog/111154452751612377). I was playing around in Fusion360 and that got me to learn FreeCAD, so the logical thing was to share this dumb project with you too.
