@@ -11,7 +11,7 @@ Please check the [How-To guide](HOWTO.md) on build instruction and bill of meate
 # 🤔 Too lazy to build yourself?
 **I can probably help you out!**
 
-I'll probably open my services every now and then, but do check this [Mastodon post](https://rubber.social/@Xantw0) for more info on price, availability and contact info
+I'll probably open my services every now and then, but do check this [Mastodon post](https://rubber.social/@Xantw0/111569252257938835) for more info on price, availability and contact info.
 
 # ✨ Thanks
 This project was inpired by [gdog](https://woof.group/@gdog) and Icteryn from this [Mastodon post](https://woof.group/@gdog/111154452751612377). I was playing around in Fusion360 and that got me to learn FreeCAD, so the logical thing was to share this dumb project with you too.
