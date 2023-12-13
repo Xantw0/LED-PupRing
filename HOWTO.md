@@ -66,6 +66,16 @@ You can use anything you want for the control of your nose ring, even do custom 
 
 Once installed, make sure you set the LED Strip length correctly (30 Leds if using my BOM), and the Data Pin (D2 is GPIO 4, so put 4 in there)
 
+## Battery life
+
+Based on my tests, and for best longevity, you should set the maximum brightness of the LEDs to around 30%. 
+
+More will be brighter, but probably not worth it, and at 30% the whole contraption uses aroun 30mAh, meaning on the battery suggested, you would get around 2 hours of battery life.
+
+<p align="center"> 
+<img alt="Photo of the box content fitted in tightly" src="images/battery.jpg" width="400"> 
+</p>
+
 ## Shoving it all in the box
 1. Stick the wifi antenna to the bottom of the box 
 2. Place the microcontroller upside down with the USB Port through the dedicated hole
