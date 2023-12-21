@@ -3,10 +3,10 @@
 </p>
 
 # 🌈 LED-PupRing
-A collection of 3D files and build instruction to build a LED Nose Ring for neoprene Pup Masks
+A collection of 3D files and build instructions to build a LED Nose Ring for neoprene Pup Masks
 
 # 🛠 How to build?
-Please check the [How-To guide](HOWTO.md) on build instruction and bill of meaterials
+Please check the [How-To guide](HOWTO.md) on build instructions and bill of materials
 
 # 🤔 Too lazy to build yourself?
 **I can probably help you out!**
