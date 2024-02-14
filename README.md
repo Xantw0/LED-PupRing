@@ -5,6 +5,8 @@
 # 🌈 LED-PupRing
 A collection of 3D files and build instructions to build a LED Nose Ring for neoprene Pup Masks
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/V7V0UH172)
+
 # 🛠 How to build?
 Please check the [How-To guide](HOWTO.md) on build instructions and bill of materials
 
